@@ -1,0 +1,1 @@
+python dataset_full.py --dataset_path ycbv_train_pbr/train_pbr/ --generate true
